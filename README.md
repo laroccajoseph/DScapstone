@@ -5,6 +5,7 @@
   
   1. Installation
   This project was instantiated on a Jupytr Notebook running Python 3.6 in the IBM Cloud. For exact results, please use the same set up. The following libraries are required to run the project:
+  
     -import types
     -import pandas as pd
     -import numpy as np
