@@ -5,19 +5,19 @@
   
   1. Installation
   This project was instantiated on a Jupytr Notebook running Python 3.6 in the IBM Cloud. For exact results, please use the same set up. The following libraries are required to run the project:
-  -import types
-  -import pandas as pd
-  -import numpy as np
-  -from botocore.client import Config
-  -import ibm_boto3
-  -import seaborn as sns
-  -import matplotlib.pyplot as pl
-  -import sklearn as sk
-  -from sklearn.metrics import accuracy_score
-  -from sklearn.model_selection import train_test_split
-  -from sklearn.metrics import fbeta_score
-  -from sklearn.ensemble import RandomForestClassifier
-  -from time import time
+    -import types
+    -import pandas as pd
+    -import numpy as np
+    -from botocore.client import Config
+    -import ibm_boto3
+    -import seaborn as sns
+    -import matplotlib.pyplot as pl
+    -import sklearn as sk
+    -from sklearn.metrics import accuracy_score
+    -from sklearn.model_selection import train_test_split
+    -from sklearn.metrics import fbeta_score
+    -from sklearn.ensemble import RandomForestClassifier
+    -from time import time
     
   2. Project Motiavtion
   
